@@ -11,7 +11,7 @@ situacao = False
 
 def titulo():
     print("=" * 105)
-    print(" " * 33, "PROJETO CAIXA ELETRÔNICO EM PYTHON")
+    print(" " * 33, "PROJETO CAIXA ELETRÔNICO EM PYTHONaaa")
     print("=" * 105)
 
 # MENU INICIAL
