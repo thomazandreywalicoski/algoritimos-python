@@ -1,4 +1,5 @@
 num_escolhido = int(input("Digite a posição do número na sequência de Fibbonacci que deseja ver: "))
+print()
 
 num_antecessor = 0
 num_atual = 0
@@ -12,6 +13,6 @@ for i in range(0, num_escolhido):
         num_atual = num_atual + 1
     print(f"{ordem}° número: {num_atual}")
 
-print(f"O {num_escolhido}° número é o {num_atual}")
+print(f"\nO {num_escolhido}° número é o {num_atual}")
     
     
